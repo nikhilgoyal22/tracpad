@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  commit_type: MyString
+  sha: MyText
+  committed_at: 2020-03-22 03:21:13
+  tickets: []
+  release: one
+  user: one
+  repo: one
+
+two:
+  commit_type: MyString
+  sha: MyText
+  committed_at: 2020-03-22 03:21:13
+  tickets: []
+  release: two
+  user: two
+  repo: two
